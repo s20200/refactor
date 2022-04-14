@@ -1,0 +1,10 @@
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.AssemblyInfoInputs.cache
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.AssemblyInfo.cs
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.deps.json
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.dll
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/bin/Debug/netcoreapp3.1/LegacyApp.pdb
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.csproj.AssemblyReference.cache
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.dll
+/Users/banan420/Downloads/s20200-refactoring-example/LegacyApp/obj/Debug/netcoreapp3.1/LegacyApp.pdb
